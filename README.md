@@ -12,9 +12,10 @@ Romell - Rulez
 
 # MARIELA- NEW ADDD 2:45
 
-=======
-George is the best one
-=======
+# Dhaneesh trying without pull
+
+Mariela-merge
+<<<<<<< HEAD
 =======
 George is the best one, may be
 =======
@@ -22,3 +23,5 @@ George is the best one, may be
 George is the best one, not really
 
 Pig could fly
+
+> > > > > > > 83edbc48e985fbd25f896c2f62081f167449a012
