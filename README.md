@@ -10,6 +10,8 @@ Romell - Rulez
 
 # Mariela-merge
 
+Romell -likes to eat bananas
+
 # MARIELA- NEW ADDD 2:45
 
 # Dhaneesh trying without pull
