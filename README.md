@@ -1,5 +1,7 @@
 # compeition-DRGM
 
+this is awesome
+
 sometimes
 This is a test repo
 best one wins-MARIELA !!!
