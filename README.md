@@ -2,5 +2,5 @@
 
 best one wins
 
-Geroge
+George
 George
