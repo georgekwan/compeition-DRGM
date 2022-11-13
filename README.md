@@ -1,4 +1,4 @@
-# compeition-DRGM
+# competition-DRGM
 
 this is awesome
 
